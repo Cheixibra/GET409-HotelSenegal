@@ -19,11 +19,17 @@ Réservation d'hôtels et d'hébergements au Sénégal, avec une expérience ada
 
 Les voyageurs ont du mal à comparer des hébergements fiables au Sénégal et à savoir si une chambre est réellement disponible, à quel prix final et avec quelles conditions de réservation.
 
-## Énoncé HMW retenu
+## Énoncé HMW retenu en S1
 
 > **Comment pourrions-nous aider les voyageurs au Sénégal à trouver et réserver un hébergement fiable, adapté à leur budget et à leur destination, avec des informations claires sur la disponibilité, le prix total et les conditions de réservation ?**
 
 Cet énoncé ouvre une opportunité de conception sans imposer une solution technique particulière.
+
+## HMW définitif S2
+
+> **Comment pourrions-nous aider les voyageurs au Sénégal à réserver un hébergement fiable en vérifiant clairement la disponibilité, le prix total et les conditions avant leur engagement ?**
+
+Le HMW S2 affine celui de S1 autour du moment critique de décision : avant le paiement ou tout autre engagement. Il reste ouvert sur la solution et devient directement testable avec le VPC, les métriques et le backlog S3.
 
 ## Livrables S1
 
@@ -34,12 +40,36 @@ Cet énoncé ouvre une opportunité de conception sans imposer une solution tech
 - [x] Guide d'entretien d'empathie
 - [x] Première note d'impact et d'éthique
 
+## Livrables S2
+
+- [x] Value Proposition Canvas
+- [x] Analyse des 6 chapeaux de Bono
+- [x] Contraintes et périmètre MVP
+- [x] Hypothèses de validation
+- [x] Métriques de succès
+- [x] Traçabilité 6 Chapeaux vers VPC
+- [x] HMW définitif
+- [x] Backlog S3 priorisé
+- [x] Brouillon de pitch de proposition de valeur
+
 ## Documents
 
 - [Carte d'empathie](./CARTE-EMPATHIE.md)
 - [HMW et cadrage](./HMW.md)
 - [Guide d'entretien](./GUIDE-ENTRETIEN.md)
 - [Note d'impact et d'éthique](./IMPACT-ETHIQUE.md)
+
+### Dossier S2
+
+- [Value Proposition Canvas](./docs/vpc.md)
+- [Analyse des 6 chapeaux](./docs/chapeaux-bono.md)
+- [Contraintes MVP](./docs/contraintes-mvp.md)
+- [Hypothèses de validation](./docs/hypotheses-validation.md)
+- [Métriques de succès](./docs/metriques-succes.md)
+- [Connexions 6 Chapeaux vers VPC](./docs/vpc-connections.md)
+- [HMW définitif](./docs/hmw-definitif.md)
+- [Backlog S3](./docs/backlog-s3.md)
+- [Brouillon de pitch VPC](./docs/pitch-vpc-draft.md)
 
 ## État de la recherche
 
